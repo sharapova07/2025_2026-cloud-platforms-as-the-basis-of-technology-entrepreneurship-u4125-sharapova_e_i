@@ -176,7 +176,7 @@ AI-модуль: распознавание речи и преобразован
 7. Cloud Scheduler нужен для автоматической очистки старых аудиофайлов, чтобы не увеличивать стоимость хранения.
 
 **7. Архитектура:**   
-![3-1](https://github.com/sharapova07/2025_2026-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-sharapova_e_i/blob/f6b58a54d342865b8e991e72ea33b3a99c4cc631/lab4/lab3%20(3-1).jpg)
+![4-1](https://github.com/sharapova07/2025_2026-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-sharapova_e_i/blob/f6b58a54d342865b8e991e72ea33b3a99c4cc631/lab4/lab3%20(3-1).jpg)
 
 ## Вывод
 
