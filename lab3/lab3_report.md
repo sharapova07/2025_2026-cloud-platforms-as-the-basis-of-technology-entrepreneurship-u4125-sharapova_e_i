@@ -18,28 +18,28 @@ Date of finished:
 ### Ход работы 
 **1. Создание Cloud Storage bucket:**  
 Во вкладке `Cloud Storage -> Buckets` был создан бакет с именем `esharapova-bucket-lab3`.   
-![3-1]()
+![3-1](https://github.com/sharapova07/2025_2026-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-sharapova_e_i/blob/c950d760804caebf54f0395ae928c1c302b4503d/lab3/lab3%20(3-1).png)
 
 **2. Загрузка изображений в Cloud Storage bucket:**  
 Через вкладку `Upload` в созданный бакет были загружены три графических файла в формате `.png`.    
-![3-2]()
+![3-2](https://github.com/sharapova07/2025_2026-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-sharapova_e_i/blob/c950d760804caebf54f0395ae928c1c302b4503d/lab3/lab3%20(3-2).png)
 
 **3. Создание новой папки и перемещение туда файлов:**  
 Внутри созданного бакета была сформирована папка `France`.    
 С помощью функции `Move object` все три файла были перемещены в новую папку.    
 В качестве целевого пути было указано `esharapova-bucket-lab3/France/`.    
-![3-3]()
-![3-4]()  
+![3-3](https://github.com/sharapova07/2025_2026-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-sharapova_e_i/blob/c950d760804caebf54f0395ae928c1c302b4503d/lab3/lab3%20(3-3).png)
+![3-4](https://github.com/sharapova07/2025_2026-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-sharapova_e_i/blob/c950d760804caebf54f0395ae928c1c302b4503d/lab3/lab3%20(3-4).png)  
 
 После завершения операции все три файла успешно переместились в папку `France`.    
-![3-5]()
+![3-5](https://github.com/sharapova07/2025_2026-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-sharapova_e_i/blob/c950d760804caebf54f0395ae928c1c302b4503d/lab3/lab3%20(3-5).png)
 
 **4. Настройка публичного доступа:**  
 Для настройки публичного доступа были выбраны следующие показатели:    
 - Пользователи: `allUsers`   
 - Роль: `Storage Object Viewer`   
 Благодаря этой настройке любой пользователь в интернете получил возможность читать объекты бакета   
-![3-6]()
+![3-6](https://github.com/sharapova07/2025_2026-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-sharapova_e_i/blob/c950d760804caebf54f0395ae928c1c302b4503d/lab3/lab%20(3-6).png)
 
 **5. Создание публичной ссылки:**  
 Через контекстное меню была скопирована общедоступная ссылка:   
